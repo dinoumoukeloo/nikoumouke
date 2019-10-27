@@ -1,1 +1,1 @@
-worker: menu.js
+worker: node menu.js
